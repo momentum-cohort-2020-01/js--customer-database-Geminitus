@@ -116,3 +116,5 @@ function loadCustomers () {
   }
   return
 }
+
+loadCustomers()
